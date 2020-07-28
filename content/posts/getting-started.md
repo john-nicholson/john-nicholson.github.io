@@ -1,11 +1,13 @@
 ---
-title: "Getting Started With Hugo"
+title: "Getting Started"
 date: 2020-07-22T14:48:33Z
 ---
 
 So I've started building a new site here as a set of github pages. This has mainly involved playing with couple of site generators, and seeing how I get on with them. 
 
-My motivation in this is pretty simple I need to get better at blogging. The tooling I use a a big contributing factor to that. So here are the requirements I've laid out:
+My motivation in this is pretty simple I need to get better at blogging. The tooling I use is a big contributing factor to that. To that end I've been trying out a number of platforms and here are the results. 
+
+To define what I'm doing I've laid out a few requirements:
 1) Can be hosted using [GitHub Pages](https://pages.github.com/)
 2) Is [JAMStack](https://jamstack.org/) based i.e. staticly generated markup fed by API's if required.
 3) Posts can be written in markdown.

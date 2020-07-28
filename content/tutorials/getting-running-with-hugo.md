@@ -1,7 +1,10 @@
 ---
 title: "Getting Running With Hugo"
 date: 2020-07-22T22:15:53Z
+draft: true
 ---
+
+
 
 **n.b.** Plenty of great resources are avilable and I used a mixture of the offical [getting started](https://gohugo.io/getting-started/quick-start/) guide and some pointers for the appropriate container. 
 
