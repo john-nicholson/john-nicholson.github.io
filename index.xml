@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John, Complected</title>
-    <link>http://john-nicholson.github.io/</link>
+    <link>https://john-nicholson.github.io/</link>
     <description>Recent content on John, Complected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jul 2020 14:48:33 +0000</lastBuildDate>
     
-	<atom:link href="http://john-nicholson.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://john-nicholson.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started</title>
-      <link>http://john-nicholson.github.io/posts/getting-started/</link>
+      <link>https://john-nicholson.github.io/posts/getting-started/</link>
       <pubDate>Wed, 22 Jul 2020 14:48:33 +0000</pubDate>
       
-      <guid>http://john-nicholson.github.io/posts/getting-started/</guid>
+      <guid>https://john-nicholson.github.io/posts/getting-started/</guid>
       <description>So I&amp;rsquo;ve started building a new site here as a set of github pages. This has mainly involved playing with couple of site generators, and seeing how I get on with them.
 My motivation in this is pretty simple I need to get better at blogging. The tooling I use is a big contributing factor to that. To that end I&amp;rsquo;ve been trying out a number of platforms and here are the results.</description>
     </item>
