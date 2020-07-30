@@ -6,10 +6,19 @@
     <description>Recent content on John, Complected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2020 22:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 21:20:41 +0000</lastBuildDate>
     
 	<atom:link href="https://john-nicholson.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sample for Build</title>
+      <link>https://john-nicholson.github.io/posts/sample-for-build/</link>
+      <pubDate>Thu, 30 Jul 2020 21:20:41 +0000</pubDate>
+      
+      <guid>https://john-nicholson.github.io/posts/sample-for-build/</guid>
+      <description>new content to be added.</description>
+    </item>
     
     <item>
       <title>Getting Started</title>
