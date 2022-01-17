@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on John, Complected</title>
-    <link>https://john-nicholson.github.io/posts/</link>
-    <description>Recent content in Posts on John, Complected</description>
+    <title>Work on John, Complected</title>
+    <link>https://john-nicholson.github.io/categories/work/</link>
+    <description>Recent content in Work on John, Complected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 10 Feb 2021 21:33:00 +0000</lastBuildDate>
     
-	<atom:link href="https://john-nicholson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://john-nicholson.github.io/categories/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,16 +27,6 @@
       
       <guid>https://john-nicholson.github.io/posts/an-entertaining-start/</guid>
       <description>So at the beginning of the month I began a new adventure as an employee for the first time in 7 years, starting as the new Group Director for IT with Eastern Colleges Group. I really am excited about this role, there is so much to get to grips with, so many areas in which IT directly contributes to the eduction delivered by the colleges. I&amp;rsquo;ll be posting sporadically (if I ever get this blog published) with how the role is going and the challeges that we face in ensuring that the systems keep working.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started</title>
-      <link>https://john-nicholson.github.io/posts/getting-started/</link>
-      <pubDate>Wed, 22 Jul 2020 14:48:33 +0000</pubDate>
-      
-      <guid>https://john-nicholson.github.io/posts/getting-started/</guid>
-      <description>So I&amp;rsquo;ve started building a new site here as a set of github pages. This has mainly involved playing with couple of site generators, and seeing how I get on with them.
-My motivation in this is pretty simple I need to get better at blogging. The tooling I use is a big contributing factor to that. To that end I&amp;rsquo;ve been trying out a number of platforms and here are the results.</description>
     </item>
     
   </channel>
