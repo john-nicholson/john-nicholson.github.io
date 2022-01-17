@@ -6,10 +6,19 @@
     <description>Recent content in Categories on John, Complected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 10 Feb 2021 21:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 22:30:11 +0000</lastBuildDate>
     
 	<atom:link href="https://john-nicholson.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ECG</title>
+      <link>https://john-nicholson.github.io/categories/ecg/</link>
+      <pubDate>Sat, 15 Jan 2022 22:30:11 +0000</pubDate>
+      
+      <guid>https://john-nicholson.github.io/categories/ecg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Work</title>
