@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on John, Complected</title>
+    <link>https://john-nicholson.github.io/tags/development/</link>
+    <description>Recent content in Development on John, Complected</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 22 Jul 2020 22:15:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://john-nicholson.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Running With Hugo</title>
+      <link>https://john-nicholson.github.io/posts/getting-running-with-hugo/</link>
+      <pubDate>Wed, 22 Jul 2020 22:15:53 +0000</pubDate>
+      
+      <guid>https://john-nicholson.github.io/posts/getting-running-with-hugo/</guid>
+      <description>n.b. Plenty of great resources are avilable and I used a mixture of the offical getting started guide and some pointers for the appropriate container.
+It is worth noting that I don&amp;rsquo;t like installing devkits or tools directly on my laptop. Why you ask well invariably doing starts the clock tiking on when I need to completely purge the machine. No this means I have a few options open to me:</description>
+    </item>
+    
+    <item>
+      <title>The Unicorn Project</title>
+      <link>https://john-nicholson.github.io/posts/the-unicorn-project/</link>
+      <pubDate>Sun, 10 Nov 2019 21:25:16 +0000</pubDate>
+      
+      <guid>https://john-nicholson.github.io/posts/the-unicorn-project/</guid>
+      <description>I’ve had the privilege to get early access to The Unicorn Project by Gene Kim. Set within Parts Unlimited a large manufacturing and retail organisation that is struggling to come to terms with software as a first class citizen. Yes for those of you who have read The Phoenix Project this story is set in the same organisation and you see many of the same characters and events that occurred. In fact this tale follows another character within the narrative that was only briefly introduced before, namely a developer.</description>
+    </item>
+    
+  </channel>
+</rss>

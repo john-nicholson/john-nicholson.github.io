@@ -53,7 +53,12 @@
   </url>
   
   <url>
-    <loc>https://john-nicholson.github.io/posts/an-incident-and-an-attack/</loc>
+    <loc>https://john-nicholson.github.io/posts/ecg-when-a-plan-comes-together/</loc>
+    <lastmod>2021-07-27T21:33:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/posts/ecg-an-incident-and-an-attack/</loc>
     <lastmod>2021-02-10T21:33:00+00:00</lastmod>
   </url>
   
@@ -68,18 +73,68 @@
   </url>
   
   <url>
-    <loc>https://john-nicholson.github.io/categories/work/</loc>
-    <lastmod>2021-02-10T21:33:00+00:00</lastmod>
+    <loc>https://john-nicholson.github.io/posts/ecg-an-entertaining-start/</loc>
+    <lastmod>2021-01-10T21:33:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-nicholson.github.io/posts/an-entertaining-start/</loc>
-    <lastmod>2021-01-10T21:33:00+00:00</lastmod>
+    <loc>https://john-nicholson.github.io/tags/development/</loc>
+    <lastmod>2020-07-22T22:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/posts/getting-running-with-hugo/</loc>
+    <lastmod>2020-07-22T22:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/tags/tutorial/</loc>
+    <lastmod>2020-07-22T22:15:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/categories/tutorials/</loc>
+    <lastmod>2020-07-22T22:15:53+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://john-nicholson.github.io/posts/getting-started/</loc>
     <lastmod>2020-07-22T14:48:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/tags/devops/</loc>
+    <lastmod>2019-11-10T21:25:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/categories/reviews/</loc>
+    <lastmod>2019-11-10T21:25:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/posts/the-unicorn-project/</loc>
+    <lastmod>2019-11-10T21:25:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/tags/agile/</loc>
+    <lastmod>2017-06-05T21:24:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/categories/agile/</loc>
+    <lastmod>2017-06-05T21:24:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/posts/an-example-of-flow/</loc>
+    <lastmod>2017-06-05T21:24:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-nicholson.github.io/tags/kanban/</loc>
+    <lastmod>2017-06-05T21:24:01+00:00</lastmod>
   </url>
   
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on John, Complected</title>
+    <link>https://john-nicholson.github.io/tags/devops/</link>
+    <description>Recent content in DevOps on John, Complected</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 10 Nov 2019 21:25:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://john-nicholson.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Unicorn Project</title>
+      <link>https://john-nicholson.github.io/posts/the-unicorn-project/</link>
+      <pubDate>Sun, 10 Nov 2019 21:25:16 +0000</pubDate>
+      
+      <guid>https://john-nicholson.github.io/posts/the-unicorn-project/</guid>
+      <description>I’ve had the privilege to get early access to The Unicorn Project by Gene Kim. Set within Parts Unlimited a large manufacturing and retail organisation that is struggling to come to terms with software as a first class citizen. Yes for those of you who have read The Phoenix Project this story is set in the same organisation and you see many of the same characters and events that occurred. In fact this tale follows another character within the narrative that was only briefly introduced before, namely a developer.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agile on John, Complected</title>
+    <link>https://john-nicholson.github.io/categories/agile/</link>
+    <description>Recent content in agile on John, Complected</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 05 Jun 2017 21:24:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://john-nicholson.github.io/categories/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Example of Flow</title>
+      <link>https://john-nicholson.github.io/posts/an-example-of-flow/</link>
+      <pubDate>Mon, 05 Jun 2017 21:24:01 +0000</pubDate>
+      
+      <guid>https://john-nicholson.github.io/posts/an-example-of-flow/</guid>
+      <description>I’ve been reading The Goal as well as The Phoenix Project. Whilst there are many important principals in these novels and I highly recommend them. I wanted to highlight one in particular. The danger of too much Inventory or unfinished work. Recently I was working on an Agile project. This team conformed to the scrum framework zealously, the application architecture was solid, the team were beyond excellent, we had fantastic and driven product owner.</description>
+    </item>
+    
+  </channel>
+</rss>
