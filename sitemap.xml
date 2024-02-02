@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://john-nicholson.github.io/categories/</loc>
+    <loc>https://john-nicholson.github.io/posts/deploy-hugo-with-github/</loc>
     <lastmod>2022-01-21T12:19:40+00:00</lastmod>
   </url><url>
-    <loc>https://john-nicholson.github.io/posts/deploy-hugo-with-github/</loc>
+    <loc>https://john-nicholson.github.io/categories/</loc>
     <lastmod>2022-01-21T12:19:40+00:00</lastmod>
   </url><url>
     <loc>https://john-nicholson.github.io/tags/development/</loc>
@@ -29,25 +29,22 @@
     <loc>https://john-nicholson.github.io/categories/tutorials/</loc>
     <lastmod>2022-01-21T12:19:40+00:00</lastmod>
   </url><url>
-    <loc>https://john-nicholson.github.io/posts/another-chapter-closes/</loc>
-    <lastmod>2022-01-15T22:30:11+00:00</lastmod>
-  </url><url>
-    <loc>https://john-nicholson.github.io/tags/ecg/</loc>
-    <lastmod>2022-01-15T22:30:11+00:00</lastmod>
-  </url><url>
-    <loc>https://john-nicholson.github.io/categories/ecg/</loc>
-    <lastmod>2022-01-15T22:30:11+00:00</lastmod>
-  </url><url>
-    <loc>https://john-nicholson.github.io/tags/new-job/</loc>
-    <lastmod>2022-01-15T22:30:11+00:00</lastmod>
-  </url><url>
-    <loc>https://john-nicholson.github.io/tags/work/</loc>
-    <lastmod>2022-01-15T22:30:11+00:00</lastmod>
-  </url><url>
     <loc>https://john-nicholson.github.io/about/</loc>
     <lastmod>2022-01-15T22:07:06+00:00</lastmod>
   </url><url>
+    <loc>https://john-nicholson.github.io/tags/ecg/</loc>
+    <lastmod>2021-07-27T21:33:18+00:00</lastmod>
+  </url><url>
+    <loc>https://john-nicholson.github.io/categories/ecg/</loc>
+    <lastmod>2021-07-27T21:33:18+00:00</lastmod>
+  </url><url>
     <loc>https://john-nicholson.github.io/posts/ecg-when-a-plan-comes-together/</loc>
+    <lastmod>2021-07-27T21:33:18+00:00</lastmod>
+  </url><url>
+    <loc>https://john-nicholson.github.io/tags/new-job/</loc>
+    <lastmod>2021-07-27T21:33:18+00:00</lastmod>
+  </url><url>
+    <loc>https://john-nicholson.github.io/tags/work/</loc>
     <lastmod>2021-07-27T21:33:18+00:00</lastmod>
   </url><url>
     <loc>https://john-nicholson.github.io/posts/ecg-an-incident-and-an-attack/</loc>
