@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#faf9f6"/>
+  <text x="80" y="130" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" fill="#0b1f3a">Migration re-establishes <tspan fill="#2457a6">intent.</tspan></text>
+  <text x="80" y="190" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#596273">Not every task should survive just because it was written down.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="90" y="300" width="370" height="365" rx="24" fill="#fff" stroke="#d5dbe4"/>
+    <text x="275" y="345" text-anchor="middle" font-size="27" font-weight="700" fill="#0b1f3a">1. BACKLOG / EVERYTHING</text>
+    <g font-size="24" fill="#27364a">
+      <rect x="135" y="385" width="130" height="60" rx="12" fill="#f5f6f8"/><text x="200" y="423" text-anchor="middle">Ideas</text>
+      <rect x="285" y="385" width="130" height="60" rx="12" fill="#f5f6f8"/><text x="350" y="423" text-anchor="middle">Follow up</text>
+      <rect x="135" y="465" width="130" height="60" rx="12" fill="#f5f6f8"/><text x="200" y="503" text-anchor="middle">Admin</text>
+      <rect x="285" y="465" width="130" height="60" rx="12" fill="#f5f6f8"/><text x="350" y="503" text-anchor="middle">Research</text>
+      <rect x="135" y="545" width="130" height="60" rx="12" fill="#f5f6f8"/><text x="200" y="583" text-anchor="middle">Waiting</text>
+      <rect x="285" y="545" width="130" height="60" rx="12" fill="#f5f6f8"/><text x="350" y="583" text-anchor="middle">Someday</text>
+    </g>
+
+    <text x="515" y="500" font-size="54" fill="#2457a6">→</text>
+
+    <rect x="590" y="300" width="370" height="365" rx="24" fill="#fff" stroke="#2457a6" stroke-width="2"/>
+    <text x="775" y="345" text-anchor="middle" font-size="27" font-weight="700" fill="#0b1f3a">2. MIGRATION / REVIEW</text>
+    <g font-size="25" fill="#27364a" text-anchor="middle">
+      <text x="775" y="410">Still relevant?</text>
+      <text x="775" y="460">Do now?</text>
+      <text x="775" y="510">Schedule?</text>
+      <text x="775" y="560">Delegate?</text>
+      <text x="775" y="610">Drop?</text>
+    </g>
+
+    <text x="1015" y="500" font-size="54" fill="#2457a6">→</text>
+
+    <rect x="1090" y="300" width="420" height="365" rx="24" fill="#fff" stroke="#d5dbe4"/>
+    <text x="1300" y="345" text-anchor="middle" font-size="27" font-weight="700" fill="#0b1f3a">3. FOCUSED / DAILY VIEW</text>
+    <text x="1165" y="410" font-size="30" font-weight="700" fill="#2457a6">Today</text>
+    <line x1="1165" y1="430" x2="1435" y2="430" stroke="#d5dbe4"/>
+    <g font-size="25" fill="#27364a">
+      <text x="1165" y="485">○ Write outline</text>
+      <text x="1165" y="545">○ Client call</text>
+      <text x="1165" y="605">○ Review deck</text>
+    </g>
+  </g>
+
+  <line x1="80" y1="745" x2="1520" y2="745" stroke="#d5dbe4"/>
+  <text x="80" y="810" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#27364a">Reduce WIP. Reassess context. <tspan font-weight="700" fill="#2457a6">Keep flow.</tspan></text>
+</svg>
